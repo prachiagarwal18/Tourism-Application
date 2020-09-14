@@ -1,0 +1,2 @@
+# Tourism-Application
+This project is mainly beneficial for the tourists having no idea about the places they want to visit in Jaipur. This mobile application includes a map which will help the users to find the desired locations to visit. By using this app the users can also find the nearby hospitals, bus stands, railway stations etc. The app also includes the detailed information of famous hotels, places and food of Jaipur.
